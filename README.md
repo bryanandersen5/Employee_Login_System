@@ -74,7 +74,7 @@ This is a prototype JavaFX desktop application that demonstrates a basic **emplo
  ┣ 📁 lib/  
  ┣ 📁 target/ (ignored)  
  ┗ 📁 src/  
-   ┗ 📁 main/  
+     ┗ 📁 main/  
      ┣ 📁 java/  
      ┃ ┗ 📁 com/  
      ┃   ┗ 📁 example/  
