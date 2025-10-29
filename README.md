@@ -64,26 +64,26 @@ This is a prototype JavaFX desktop application that demonstrates a basic **emplo
 
 ---
 
-📦 Employee_Login_System/
- ┣ 📄 pom.xml
- ┣ 📄 mvnw
- ┣ 📄 mvnw.cmd
- ┣ 📄 .gitignore
- ┣ 📁 .idea/ (ignored)
- ┣ 📁 .mvn/wrapper/
- ┣ 📁 lib/
- ┣ 📁 target/ (ignored)
- ┗ 📁 src/
-   ┗ 📁 main/
-     ┣ 📁 java/
-     ┃ ┗ 📁 com/
-     ┃   ┗ 📁 example/
-     ┃     ┣ 📄 Main.java
-     ┃     ┣ 📄 Controller.java
-     ┃     ┣ 📄 DBUtils.java
-     ┃     ┗ 📄 LoggedInController.java
-     ┗ 📁 resources/
-       ┗ 📁 com/
-         ┗ 📁 example/
-           ┣ 📄 sample.fxml
-           ┗ 📄 logged-in.fxml
+📦 Employee_Login_System/  
+ ┣ 📄 pom.xml  
+ ┣ 📄 mvnw  
+ ┣ 📄 mvnw.cmd  
+ ┣ 📄 .gitignore  
+ ┣ 📁 .idea/ (ignored)  
+ ┣ 📁 .mvn/wrapper/  
+ ┣ 📁 lib/  
+ ┣ 📁 target/ (ignored)  
+ ┗ 📁 src/  
+   ┗ 📁 main/  
+     ┣ 📁 java/  
+     ┃ ┗ 📁 com/  
+     ┃   ┗ 📁 example/  
+     ┃     ┣ 📄 Main.java  
+     ┃     ┣ 📄 Controller.java  
+     ┃     ┣ 📄 DBUtils.java  
+     ┃     ┗ 📄 LoggedInController.java  
+     ┗ 📁 resources/  
+       ┗ 📁 com/  
+         ┗ 📁 example/  
+           ┣ 📄 sample.fxml  
+           ┗ 📄 logged-in.fxml  
