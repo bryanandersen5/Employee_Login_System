@@ -64,7 +64,7 @@ This is a prototype JavaFX desktop application that demonstrates a basic **emplo
 
 ---
 
-📦 Employee_Login_System/  
+`📦 Employee_Login_System/`
 ```
  ┣ 📄 pom.xml  
  ┣ 📄 mvnw  
