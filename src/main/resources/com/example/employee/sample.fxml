@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="701.0">
+         <children>
+            <Label fx:id="label_copyright" layoutX="174.0" layoutY="369.0" text="© 2024 Apollo Canada Ltd. All rights reserved." />
+            <Button fx:id="button_login" layoutX="293.0" layoutY="242.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="123.0" style="-fx-cursor: hand; -fx-background-color: #ced7e0;" text="Login">
+               <font>
+                  <Font name="Arial Bold" size="16.0" />
+               </font>
+            </Button>
+            <Label layoutX="178.0" layoutY="140.0" text="Employee ID" />
+            <Label layoutX="185.0" layoutY="191.0" text="Password" />
+            <Label fx:id="label_Apollo" layoutX="200.0" layoutY="44.0" text="Apollo Canada Ltd.">
+               <font>
+                  <Font name="Arial Bold" size="22.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="tf_password" layoutX="275.0" layoutY="186.0" />
+            <TextField fx:id="tf_empID" layoutX="275.0" layoutY="135.0" />
+         </children></AnchorPane>
+   </children>
+</HBox>
