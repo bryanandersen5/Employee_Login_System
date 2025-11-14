@@ -1,6 +1,6 @@
 # 🔐 JavaFX Employee Login System
 
-![Language](https://img.shields.io/badge/Project-JavaFX-blue?style=for-the-badge&logo=java)
+![Language](https://img.shields.io/badge/Project-Java-blue?style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Type-Desktop%20App-lightgrey?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Authentication%20Management-orange?style=for-the-badge)
